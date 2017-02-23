@@ -1,0 +1,5 @@
+package: github.com/bradfitz/slice
+import:
+- package: go4.org
+  subpackages:
+  - reflectutil
